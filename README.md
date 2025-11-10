@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @riccandria
 - 👀 I’m interested in FE development
-- 🌱 I’m currently learning React Native
-- 👨🏻‍💻 I'm currently building a side project using React Native
+- 🌱 I’m currently learning NodeJS with Express
+- 👨🏻‍💻 I'm currently building a side project using NodeJS with Express & Angular
